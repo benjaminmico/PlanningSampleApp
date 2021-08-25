@@ -1,5 +1,5 @@
 /**
- * MovieSampleApp
+ * PlanningSampleApp
  */
 
 import {NavigationContainer} from '@react-navigation/native';
